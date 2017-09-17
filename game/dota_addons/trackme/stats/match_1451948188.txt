@@ -1,0 +1,2651 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"76"
+			"hero_name"		"Outworld Devourer"
+			"persona"		"philco"
+		}
+		"2"
+		{
+			"player_id"		"1"
+			"hero_id"		"14"
+			"hero_name"		"Pudge (Modified)"
+			"persona"		"Hank Bot"
+		}
+		"3"
+		{
+			"player_id"		"2"
+			"hero_id"		"5"
+			"hero_name"		"Crystal Maiden"
+			"persona"		"Bart Bot"
+		}
+		"4"
+		{
+			"player_id"		"3"
+			"hero_id"		"45"
+			"hero_name"		"Pugna"
+			"persona"		"Juan Bot"
+		}
+		"5"
+		{
+			"player_id"		"4"
+			"hero_id"		"52"
+			"hero_name"		"Leshrac"
+			"persona"		"Francis Bot"
+		}
+		"6"
+		{
+			"player_id"		"5"
+			"hero_id"		"90"
+			"hero_name"		"Keeper of the Light"
+			"persona"		"Morty Bot"
+		}
+		"7"
+		{
+			"player_id"		"6"
+			"hero_id"		"104"
+			"hero_name"		"Legion Commander"
+			"persona"		"Seymour Bot"
+		}
+		"8"
+		{
+			"player_id"		"7"
+			"hero_id"		"89"
+			"hero_name"		"Naga Siren"
+			"persona"		"Kitty Bot"
+		}
+		"9"
+		{
+			"player_id"		"8"
+			"hero_id"		"39"
+			"hero_name"		"Queen of Pain"
+			"persona"		"Pablo Bot"
+		}
+		"10"
+		{
+			"player_id"		"9"
+			"hero_id"		"15"
+			"hero_name"		"Razor"
+			"persona"		"Monty Bot"
+		}
+	}
+	"radiant_stats"
+	{
+		"1"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.276194"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"14"
+								"position_count"		"10"
+							}
+						}
+					}
+					"total_xp"		"0"
+					"net_worth"		"726"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"72"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.160984"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"14"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"0"
+					"net_worth"		"96072"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"9607"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"676"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.449383"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"425"
+					"net_worth"		"96870"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"9687"
+			"balance_xp_value"		"42"
+		}
+		"4"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"3"
+					"hero_damage"		"1867"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.511699"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"7"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"2"
+							}
+						}
+					}
+					"total_xp"		"2174"
+					"net_worth"		"99864"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"300"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"9986"
+			"balance_xp_value"		"217"
+		}
+		"5"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"3"
+					"hero_damage"		"1951"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.508518"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"3702"
+					"net_worth"		"103098"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"300"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"10309"
+			"balance_xp_value"		"370"
+		}
+		"6"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"3"
+					"hero_damage"		"2839"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.497411"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"5382"
+					"net_worth"		"104458"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"300"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"10445"
+			"balance_xp_value"		"538"
+		}
+		"7"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"6"
+					"hero_damage"		"4733"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.497564"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"8"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"1"
+							}
+						}
+					}
+					"total_xp"		"8033"
+					"net_worth"		"108632"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"600"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"10863"
+			"balance_xp_value"		"803"
+		}
+		"8"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"9"
+					"hero_damage"		"7730"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.524532"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"3"
+							}
+							"2"
+							{
+								"position_category"		"10"
+								"position_count"		"6"
+							}
+						}
+					}
+					"total_xp"		"10858"
+					"net_worth"		"110074"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"900"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"11007"
+			"balance_xp_value"		"1085"
+		}
+		"9"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"9"
+					"hero_damage"		"7730"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.507490"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"12234"
+					"net_worth"		"110999"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"900"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"11099"
+			"balance_xp_value"		"1223"
+		}
+		"10"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"9"
+					"hero_damage"		"7730"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.507490"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"10"
+							}
+						}
+					}
+					"total_xp"		"13914"
+					"net_worth"		"110999"
+					"harvested_creep_gold"		"0"
+					"claimed_farm"		"0"
+					"wards_placed"		"0"
+					"runes_collected"		"0"
+					"tps_used"		"0"
+					"mana_spent"
+					{
+						"1"		"3200"
+						"2"		"360"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+					}
+					"damage_absorbed"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"151"
+						"10"		"0"
+						"11"		"0"
+						"12"		"0"
+						"13"		"0"
+						"14"		"0"
+						"15"		"0"
+						"16"		"0"
+						"17"		"0"
+						"18"		"0"
+						"19"		"0"
+						"20"		"0"
+						"21"		"0"
+						"22"		"0"
+						"23"		"0"
+						"24"		"0"
+						"25"		"0"
+					}
+					"damage_done"
+					{
+						"1"		"0"
+						"2"		"676"
+						"3"		"868"
+						"4"		"565"
+						"5"		"853"
+						"6"		"649"
+						"7"		"1315"
+						"8"		"1137"
+						"9"		"536"
+						"10"		"1131"
+						"11"		"0"
+						"12"		"0"
+						"13"		"0"
+						"14"		"0"
+						"15"		"0"
+						"16"		"0"
+						"17"		"0"
+						"18"		"0"
+						"19"		"0"
+						"20"		"0"
+						"21"		"0"
+						"22"		"0"
+						"23"		"0"
+						"24"		"0"
+					}
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"900"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"11099"
+			"balance_xp_value"		"1391"
+		}
+	}
+	"dire_stats"
+	{
+		"1"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.120558"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"781"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"78"
+			"balance_xp_value"		"17"
+		}
+		"4"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"881"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"88"
+			"balance_xp_value"		"17"
+		}
+		"5"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"981"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"98"
+			"balance_xp_value"		"17"
+		}
+		"6"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"1081"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"108"
+			"balance_xp_value"		"17"
+		}
+		"7"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"1180"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"118"
+			"balance_xp_value"		"17"
+		}
+		"8"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"1281"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"128"
+			"balance_xp_value"		"17"
+		}
+		"9"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"9"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"1381"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"138"
+			"balance_xp_value"		"17"
+		}
+		"10"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"10"
+							}
+						}
+					}
+					"total_xp"		"174"
+					"net_worth"		"1481"
+					"harvested_creep_gold"		"0"
+					"claimed_farm"		"0"
+					"wards_placed"		"0"
+					"runes_collected"		"0"
+					"tps_used"		"0"
+					"mana_spent"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+					}
+					"damage_absorbed"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+						"11"		"0"
+						"12"		"0"
+						"13"		"0"
+						"14"		"0"
+						"15"		"0"
+						"16"		"0"
+						"17"		"0"
+						"18"		"0"
+						"19"		"0"
+						"20"		"0"
+						"21"		"0"
+						"22"		"0"
+						"23"		"0"
+						"24"		"0"
+						"25"		"0"
+					}
+					"damage_done"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+						"11"		"0"
+						"12"		"0"
+						"13"		"0"
+						"14"		"0"
+						"15"		"0"
+						"16"		"0"
+						"17"		"0"
+						"18"		"0"
+						"19"		"0"
+						"20"		"0"
+						"21"		"0"
+						"22"		"0"
+						"23"		"0"
+						"24"		"0"
+					}
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"148"
+			"balance_xp_value"		"17"
+		}
+	}
+	"radiant_kills"
+	{
+		"1"
+		{
+			"victim_id"		"1"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"101.443008"
+					"player_loc_y"		"1660.911377"
+					"health_percent"		"100.000000"
+					"mana_percent"		"46.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-76.797981"
+					"player_loc_y"		"1435.095947"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"680"
+			"effective_health"		"709"
+			"death_time"		"172.759415"
+			"killer_id"		"0"
+		}
+		"2"
+		{
+			"victim_id"		"3"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-150.751526"
+					"player_loc_y"		"484.070374"
+					"health_percent"		"100.000000"
+					"mana_percent"		"10.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"265.468750"
+					"player_loc_y"		"435.812500"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"570"
+			"effective_health"		"608"
+			"death_time"		"197.121277"
+			"killer_id"		"0"
+		}
+		"3"
+		{
+			"victim_id"		"8"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"251.649994"
+					"player_loc_y"		"242.854675"
+					"health_percent"		"85.000000"
+					"mana_percent"		"8.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-321.937500"
+					"player_loc_y"		"295.250000"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-361.920746"
+					"player_loc_y"		"236.557465"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"22.459850"
+					"player_loc_y"		"224.696457"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-362.014526"
+					"player_loc_y"		"350.411285"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"539"
+			"effective_health"		"591"
+			"death_time"		"221.015442"
+			"killer_id"		"0"
+		}
+		"4"
+		{
+			"victim_id"		"4"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-139.468994"
+					"player_loc_y"		"401.545288"
+					"health_percent"		"100.000000"
+					"mana_percent"		"5.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"216.394028"
+					"player_loc_y"		"381.755554"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-361.920746"
+					"player_loc_y"		"236.557465"
+					"health_percent"		"78.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"92.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-362.014526"
+					"player_loc_y"		"350.411285"
+					"health_percent"		"91.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"768"
+			"effective_health"		"981"
+			"death_time"		"368.179504"
+			"killer_id"		"0"
+		}
+		"5"
+		{
+			"victim_id"		"9"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-134.273895"
+					"player_loc_y"		"463.329926"
+					"health_percent"		"100.000000"
+					"mana_percent"		"2.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"1334.878906"
+					"player_loc_y"		"-4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-361.920746"
+					"player_loc_y"		"236.557465"
+					"health_percent"		"48.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"98.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"329.838745"
+					"player_loc_y"		"513.147705"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"1122"
+			"effective_health"		"1409"
+			"death_time"		"408.636292"
+			"killer_id"		"0"
+		}
+		"6"
+		{
+			"victim_id"		"5"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"0.802814"
+					"player_loc_x"		"-309.247742"
+					"player_loc_y"		"-149.474213"
+					"health_percent"		"100.000000"
+					"mana_percent"		"5.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.197186"
+					"player_loc_x"		"1334.878906"
+					"player_loc_y"		"-4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-361.920746"
+					"player_loc_y"		"236.557465"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"99.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"329.838745"
+					"player_loc_y"		"513.147705"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"810"
+			"effective_health"		"956"
+			"death_time"		"416.934265"
+			"killer_id"		"0"
+		}
+		"7"
+		{
+			"victim_id"		"6"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"38.284996"
+					"player_loc_y"		"465.763000"
+					"health_percent"		"100.000000"
+					"mana_percent"		"81.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"1334.878906"
+					"player_loc_y"		"-4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1543.715942"
+					"player_loc_y"		"-4395.775879"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1334.880005"
+					"player_loc_y"		"4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"1313"
+			"effective_health"		"1544"
+			"death_time"		"449.093109"
+			"killer_id"		"0"
+		}
+		"8"
+		{
+			"victim_id"		"2"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-137.704163"
+					"player_loc_y"		"303.261353"
+					"health_percent"		"100.000000"
+					"mana_percent"		"85.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"1334.878906"
+					"player_loc_y"		"-4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1543.715942"
+					"player_loc_y"		"-4395.775879"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.766724"
+					"player_loc_y"		"325.810303"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1334.880005"
+					"player_loc_y"		"4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"870"
+			"effective_health"		"963"
+			"death_time"		"453.125458"
+			"killer_id"		"0"
+		}
+		"9"
+		{
+			"victim_id"		"7"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-73.208603"
+					"player_loc_y"		"354.735229"
+					"health_percent"		"100.000000"
+					"mana_percent"		"95.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3832.665039"
+					"player_loc_y"		"2648.883301"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-426.860474"
+					"player_loc_y"		"261.158447"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"3703.596680"
+					"player_loc_y"		"-2826.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"1334.878906"
+					"player_loc_y"		"-4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1543.715942"
+					"player_loc_y"		"-4395.775879"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3832.664795"
+					"player_loc_y"		"-2648.884033"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-455.807556"
+					"player_loc_y"		"204.051788"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-3703.596924"
+					"player_loc_y"		"2826.530273"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"-1334.880005"
+					"player_loc_y"		"4463.630859"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"1140"
+			"effective_health"		"1379"
+			"death_time"		"462.489838"
+			"killer_id"		"0"
+		}
+	}
+	"fight_details"
+	{
+		"1"
+		{
+			"start_time"		"190.178329"
+			"end_time"		"196.379654"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"189"
+				"xp_delta"		"65"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"1"
+				}
+				"deaths"
+				{
+					"1"		"1"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"2"
+		{
+			"start_time"		"241.522629"
+			"end_time"		"248.524124"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"308"
+				"xp_delta"		"65"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"3"
+				}
+				"deaths"
+				{
+					"1"		"3"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"3"
+		{
+			"start_time"		"292.516815"
+			"end_time"		"293.616547"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"154"
+				"xp_delta"		"60"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"8"
+				}
+				"deaths"
+				{
+					"1"		"8"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"4"
+		{
+			"start_time"		"401.523529"
+			"end_time"		"402.523285"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"249"
+				"xp_delta"		"283"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"4"
+					"2"		"5"
+				}
+				"deaths"
+				{
+					"1"		"4"
+				}
+				"gold_delta"		"50"
+				"xp_delta"		"0"
+			}
+		}
+		"5"
+		{
+			"start_time"		"428.516937"
+			"end_time"		"429.016815"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"263"
+				"xp_delta"		"326"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"9"
+				}
+				"deaths"
+				{
+					"1"		"9"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"6"
+		{
+			"start_time"		"433.515717"
+			"end_time"		"434.015594"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"267"
+				"xp_delta"		"490"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"5"
+				}
+				"deaths"
+				{
+					"1"		"5"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"7"
+		{
+			"start_time"		"447.012421"
+			"end_time"		"447.578949"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"313"
+				"xp_delta"		"555"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"6"
+				}
+				"deaths"
+				{
+					"1"		"2"
+					"2"		"6"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+		"8"
+		{
+			"start_time"		"451.977875"
+			"end_time"		"452.011200"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"555"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"7"
+				}
+				"deaths"
+				{
+					"1"		"7"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+	}
+}

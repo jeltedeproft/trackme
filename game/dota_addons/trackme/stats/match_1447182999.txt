@@ -1,0 +1,333 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"-1"
+			"persona"		"philco"
+		}
+	}
+	"radiant_stats"
+	{
+		"1"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"726"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"72"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"826"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"82"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"926"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"92"
+			"balance_xp_value"		"0"
+		}
+		"4"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1026"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"102"
+			"balance_xp_value"		"0"
+		}
+		"5"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1126"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"112"
+			"balance_xp_value"		"0"
+		}
+		"6"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1226"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"122"
+			"balance_xp_value"		"0"
+		}
+		"7"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1326"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"132"
+			"balance_xp_value"		"0"
+		}
+		"8"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1426"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"142"
+			"balance_xp_value"		"0"
+		}
+		"9"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"total_xp"		"0"
+					"net_worth"		"1526"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"152"
+			"balance_xp_value"		"0"
+		}
+	}
+	"dire_stats"
+	{
+		"1"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"4"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"5"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"6"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"7"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"8"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"9"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+	}
+}

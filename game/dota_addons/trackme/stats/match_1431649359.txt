@@ -1,0 +1,13 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"102"
+			"hero_name"		"Abaddon"
+			"persona"		"philco"
+		}
+	}
+}

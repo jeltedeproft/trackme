@@ -1,0 +1,18 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/custom_game/custom_loading_screen.css" />
+	</styles>
+	<Panel>
+		<Panel id="seq" class="OverthrowLoadingRoot">
+			<Image id="seq_bg" class="SeqBg" src="file://{images}/custom_game/loading_screen/bounty.jpg" />
+		</Panel>
+		<Panel id="TitlePanel">
+			<Label id="OverthrowTitle" text="#addon_game_name" style="" />
+		</Panel>
+		<Panel>
+			<Label id="Rules" text="A random player starts tracked" class="LoadingScreenText1" />
+			<Label id="Rules2" text="Damage the tracked player to take over the track" class="LoadingScreenText2" />
+			<Label id="Rules3" text="right clicks do not remove track" class="LoadingScreenText3" />
+		</Panel>
+	</Panel>
+</root>

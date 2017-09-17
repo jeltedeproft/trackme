@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"gardenofhope"
+	{
+		"MaxPlayers"		"10"
+	}
+}

@@ -1,0 +1,97 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"43"
+			"hero_name"		"Death Prophet"
+			"persona"		"philco"
+		}
+		"2"
+		{
+			"player_id"		"1"
+			"hero_id"		"14"
+			"hero_name"		"Pudge"
+			"persona"		"Archy Bot"
+		}
+	}
+	"dire_kills"
+	{
+		"1"
+		{
+			"victim_id"		"0"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"47.343750"
+					"player_loc_y"		"2249.906250"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"169.334137"
+					"player_loc_y"		"2163.518066"
+					"health_percent"		"81.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"582"
+			"effective_health"		"712"
+			"death_time"		"45.165977"
+			"killer_id"		"1"
+		}
+	}
+}

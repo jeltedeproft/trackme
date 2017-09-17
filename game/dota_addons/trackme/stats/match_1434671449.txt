@@ -1,0 +1,1005 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"11"
+			"hero_name"		"Shadow Fiend"
+			"persona"		"philco"
+		}
+		"2"
+		{
+			"player_id"		"1"
+			"hero_id"		"14"
+			"hero_name"		"Pudge"
+			"persona"		"Benjamin Bot"
+		}
+	}
+	"radiant_stats"
+	{
+		"1"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.100006"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"14"
+								"position_count"		"63"
+							}
+						}
+					}
+					"total_xp"		"0"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.100006"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"14"
+								"position_count"		"54"
+							}
+						}
+					}
+					"total_xp"		"0"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.483740"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"20"
+							}
+							"2"
+							{
+								"position_category"		"12"
+								"position_count"		"11"
+							}
+							"3"
+							{
+								"position_category"		"13"
+								"position_count"		"20"
+							}
+							"4"
+							{
+								"position_category"		"14"
+								"position_count"		"4"
+							}
+						}
+					}
+					"total_xp"		"1558"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"155"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"1"
+					"value"		"478"
+				}
+				"2"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1558"
+				}
+			}
+		}
+		"4"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.507606"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"54"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"1"
+							}
+						}
+					}
+					"total_xp"		"3230"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"323"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1672"
+				}
+			}
+		}
+		"5"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.530323"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"54"
+							}
+						}
+					}
+					"total_xp"		"4670"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"467"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1440"
+				}
+			}
+		}
+		"6"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.515526"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"6350"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"635"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1680"
+				}
+			}
+		}
+		"7"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.518043"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"46"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"8"
+							}
+						}
+					}
+					"total_xp"		"7926"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"792"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1576"
+				}
+			}
+		}
+		"8"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.514257"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"0"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"9606"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"960"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1680"
+				}
+			}
+		}
+		"9"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.485251"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"19"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"35"
+							}
+						}
+					}
+					"total_xp"		"10966"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"1096"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1360"
+				}
+			}
+		}
+		"10"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"1"
+					"hero_damage"		"683"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.507589"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"13"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"12646"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+					"claimed_farm"		"0"
+					"wards_placed"		"0"
+					"runes_collected"		"0"
+					"tps_used"		"0"
+					"mana_spent"
+					{
+						"1"		"150"
+						"2"		"25"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+					}
+					"damage_absorbed"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+						"11"		"0"
+					}
+					"damage_done"
+					{
+						"1"		"0"
+						"2"		"683"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+					}
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"100"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"1264"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"1680"
+				}
+			}
+		}
+	}
+	"dire_stats"
+	{
+		"1"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"3"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.233230"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"22"
+							}
+							"2"
+							{
+								"position_category"		"13"
+								"position_count"		"14"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"420"
+				}
+			}
+		}
+		"4"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"5"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"54"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"6"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"7"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"54"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"8"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"9"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"54"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+		"10"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.124670"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"420"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+					"claimed_farm"		"0"
+					"wards_placed"		"0"
+					"runes_collected"		"0"
+					"tps_used"		"0"
+					"mana_spent"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+					}
+					"damage_absorbed"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+						"11"		"0"
+					}
+					"damage_done"
+					{
+						"1"		"0"
+						"2"		"0"
+						"3"		"0"
+						"4"		"0"
+						"5"		"0"
+						"6"		"0"
+						"7"		"0"
+						"8"		"0"
+						"9"		"0"
+						"10"		"0"
+					}
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"42"
+		}
+	}
+	"radiant_kills"
+	{
+		"1"
+		{
+			"victim_id"		"1"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"440.000000"
+					"player_loc_y"		"239.531250"
+					"health_percent"		"100.000000"
+					"mana_percent"		"52.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"560.843750"
+					"player_loc_y"		"-47.968750"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"688"
+			"effective_health"		"803"
+			"death_time"		"155.275208"
+			"killer_id"		"0"
+		}
+	}
+	"fight_details"
+	{
+		"1"
+		{
+			"start_time"		"62.499390"
+			"end_time"		"162.005646"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"478"
+				"xp_delta"		"160"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"1"
+				}
+				"deaths"
+				{
+					"1"		"1"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+	}
+}

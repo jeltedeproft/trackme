@@ -1,0 +1,127 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"100"
+			"hero_name"		"Tusk"
+			"persona"		"philco"
+		}
+		"2"
+		{
+			"player_id"		"1"
+			"hero_id"		"45"
+			"hero_name"		"Pugna"
+			"persona"		"Harriet Bot"
+		}
+	}
+	"radiant_kills"
+	{
+		"1"
+		{
+			"victim_id"		"1"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"431.997986"
+					"player_loc_y"		"-212.601654"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"600.593750"
+					"player_loc_y"		"-222.656250"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"483"
+			"effective_health"		"520"
+			"death_time"		"13.333130"
+			"killer_id"		"0"
+		}
+	}
+	"fight_details"
+	{
+		"1"
+		{
+			"start_time"		"32.633179"
+			"end_time"		"44.899658"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"269"
+				"xp_delta"		"0"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"1"
+				}
+				"deaths"
+				{
+					"1"		"1"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+	}
+}

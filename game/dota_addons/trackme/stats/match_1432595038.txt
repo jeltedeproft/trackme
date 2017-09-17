@@ -1,0 +1,131 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"55"
+			"hero_name"		"Dark Seer"
+			"persona"		"philco"
+		}
+	}
+	"radiant_stats"
+	{
+		"1"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+		"2"
+		{
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"0"
+		}
+	}
+	"dire_stats"
+	{
+		"1"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.313921"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"62"
+							}
+						}
+					}
+					"total_xp"		"416"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"41"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"416"
+				}
+			}
+		}
+		"2"
+		{
+			"player_stats"
+			{
+				"1"
+				{
+					"last_hits"		"0"
+					"hero_kills"		"0"
+					"hero_damage"		"0"
+					"tower_damage"		"0"
+					"position_info"
+					{
+						"average_position"		"0.367589"
+						"position_details"
+						{
+							"1"
+							{
+								"position_category"		"12"
+								"position_count"		"55"
+							}
+						}
+					}
+					"total_xp"		"896"
+					"net_worth"		"0"
+					"harvested_creep_gold"		"0"
+				}
+			}
+			"tower_kills"		"0"
+			"barrack_kills"		"0"
+			"available_lane_creep_gold"		"0"
+			"balance_kill_value"		"0"
+			"balance_tower_value"		"0"
+			"balance_barracks_value"		"0"
+			"balance_gold_value"		"0"
+			"balance_xp_value"		"89"
+			"lane_performance"
+			{
+				"1"
+				{
+					"location_category"		"5"
+					"stat_type"		"3"
+					"value"		"480"
+				}
+			}
+		}
+	}
+}

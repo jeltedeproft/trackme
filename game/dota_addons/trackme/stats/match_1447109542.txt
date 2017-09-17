@@ -1,0 +1,197 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"37"
+			"hero_name"		"Warlock"
+			"persona"		"philco"
+		}
+		"2"
+		{
+			"player_id"		"1"
+			"hero_id"		"14"
+			"hero_name"		"Pudge (Modified)"
+			"persona"		"Archy Bot"
+		}
+	}
+	"radiant_kills"
+	{
+		"1"
+		{
+			"victim_id"		"1"
+			"kill_shares"
+			{
+				"1"
+				{
+					"player_id"		"0"
+					"kill_share_percent"		"1.000000"
+					"player_loc_x"		"-2164.317871"
+					"player_loc_y"		"649.922058"
+					"health_percent"		"100.000000"
+					"mana_percent"		"100.000000"
+				}
+				"2"
+				{
+					"player_id"		"1"
+					"kill_share_percent"		"0.000000"
+					"player_loc_x"		"175.406250"
+					"player_loc_y"		"574.906250"
+					"health_percent"		"0.000000"
+					"mana_percent"		"100.000000"
+				}
+				"3"
+				{
+					"player_id"		"2"
+					"kill_share_percent"		"0.000000"
+				}
+				"4"
+				{
+					"player_id"		"3"
+					"kill_share_percent"		"0.000000"
+				}
+				"5"
+				{
+					"player_id"		"4"
+					"kill_share_percent"		"0.000000"
+				}
+				"6"
+				{
+					"player_id"		"5"
+					"kill_share_percent"		"0.000000"
+				}
+				"7"
+				{
+					"player_id"		"6"
+					"kill_share_percent"		"0.000000"
+				}
+				"8"
+				{
+					"player_id"		"7"
+					"kill_share_percent"		"0.000000"
+				}
+				"9"
+				{
+					"player_id"		"8"
+					"kill_share_percent"		"0.000000"
+				}
+				"10"
+				{
+					"player_id"		"9"
+					"kill_share_percent"		"0.000000"
+				}
+				"11"
+				{
+					"player_id"		"10"
+					"kill_share_percent"		"0.000000"
+				}
+				"12"
+				{
+					"player_id"		"11"
+					"kill_share_percent"		"0.000000"
+				}
+				"13"
+				{
+					"player_id"		"12"
+					"kill_share_percent"		"0.000000"
+				}
+				"14"
+				{
+					"player_id"		"13"
+					"kill_share_percent"		"0.000000"
+				}
+				"15"
+				{
+					"player_id"		"14"
+					"kill_share_percent"		"0.000000"
+				}
+				"16"
+				{
+					"player_id"		"15"
+					"kill_share_percent"		"0.000000"
+				}
+				"17"
+				{
+					"player_id"		"16"
+					"kill_share_percent"		"0.000000"
+				}
+				"18"
+				{
+					"player_id"		"17"
+					"kill_share_percent"		"0.000000"
+				}
+				"19"
+				{
+					"player_id"		"18"
+					"kill_share_percent"		"0.000000"
+				}
+				"20"
+				{
+					"player_id"		"19"
+					"kill_share_percent"		"0.000000"
+				}
+				"21"
+				{
+					"player_id"		"20"
+					"kill_share_percent"		"0.000000"
+				}
+				"22"
+				{
+					"player_id"		"21"
+					"kill_share_percent"		"0.000000"
+				}
+				"23"
+				{
+					"player_id"		"22"
+					"kill_share_percent"		"0.000000"
+				}
+				"24"
+				{
+					"player_id"		"23"
+					"kill_share_percent"		"0.000000"
+				}
+				"25"
+				{
+					"player_id"		"-1"
+					"kill_share_percent"		"0.000000"
+				}
+			}
+			"damage_to_kill"		"625"
+			"effective_health"		"0"
+			"death_time"		"3.033287"
+			"killer_id"		"0"
+		}
+	}
+	"fight_details"
+	{
+		"1"
+		{
+			"start_time"		"22.300003"
+			"end_time"		"23.999977"
+			"radiant_fight_details"
+			{
+				"participants"
+				{
+					"1"		"0"
+				}
+				"gold_delta"		"189"
+				"xp_delta"		"100"
+			}
+			"dire_fight_details"
+			{
+				"participants"
+				{
+					"1"		"1"
+				}
+				"deaths"
+				{
+					"1"		"1"
+				}
+				"gold_delta"		"0"
+				"xp_delta"		"0"
+			}
+		}
+	}
+}

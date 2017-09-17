@@ -1,0 +1,13 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"96"
+			"hero_name"		"Centaur Warrunner"
+			"persona"		"philco"
+		}
+	}
+}

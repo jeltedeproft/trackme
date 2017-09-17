@@ -1,0 +1,13 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"95"
+			"hero_name"		"Troll Warlord"
+			"persona"		"philco"
+		}
+	}
+}

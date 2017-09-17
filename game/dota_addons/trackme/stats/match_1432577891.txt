@@ -1,0 +1,13 @@
+"CDOTAUserMsg_StatsMatchDetails"
+{
+	"hero_lookup"
+	{
+		"1"
+		{
+			"player_id"		"0"
+			"hero_id"		"51"
+			"hero_name"		"Clockwerk"
+			"persona"		"philco"
+		}
+	}
+}
